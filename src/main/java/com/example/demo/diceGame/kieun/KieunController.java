@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @Slf4j
 @RestController
-@RequestMapping("/hyeseonna")
+@RequestMapping("/kieun")
 public class KieunController {
     @GetMapping("/test")
-    public void justForTest(){
+    public void justForTest2(){
         System.out.println("justForTest()");
         return;
     }

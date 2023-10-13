@@ -10,4 +10,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/leeyonggeun")
 public class LeeYongGeunController {
 
-    @GetMapping("/test")
+//    @GetMapping("/test")
+}
