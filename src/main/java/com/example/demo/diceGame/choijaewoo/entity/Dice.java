@@ -8,7 +8,7 @@ public class Dice {
 
     private Integer diceNumber;
 
-    public  Dice(){
+    public Dice(){
         final int MIN =1;
         final int MAX =6;
 
